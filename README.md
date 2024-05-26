@@ -1,6 +1,9 @@
 Agents powered with LANGCHAIN
+
+
+
   -Description-
-Welcome to Agents powered with LANGCHAIN! This project uses the OpenAI API to create intelligent agents that interact with a SQL database, efficiently returning relevant information in an automated manner. In other words, it's a superpower in code form, designed to amaze you with what artificial intelligence can do!
+Welcome to Agents powered with LANGCHAIN! This project uses the OpenAI API to create intelligent agents that interact with a SQL database, efficiently returning relevant information in an automated manner. In other words, it's a superpower in code form, designed to amaze you with what artificial intelligence can do!\
 
 -Installation-
 Installing the project is as simple as following the steps on GitHub, and voilà, you're ready to dive into the world of intelligent agents. No secrets, just fun!
