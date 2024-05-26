@@ -1,22 +1,22 @@
-# Agents-with-LANGCHAIN
 Agents powered with LANGCHAIN
-Descrição
-Bem-vindo ao Agents powered with LANGCHAIN! Este projeto utiliza a API da OpenAI para criar agentes inteligentes que interagem com um banco de dados SQL, retornando informações relevantes de maneira eficiente e automatizada. Em outras palavras, é um superpoder em forma de código, que vai deixar você impressionado com o que a inteligência artificial pode fazer!
+  -Description-
+Welcome to Agents powered with LANGCHAIN! This project uses the OpenAI API to create intelligent agents that interact with a SQL database, efficiently returning relevant information in an automated manner. In other words, it's a superpower in code form, designed to amaze you with what artificial intelligence can do!
 
-Instalação
-Instalar o projeto é tão simples quanto seguir os passos no GitHub e, voilà, você está pronto para mergulhar no mundo dos agentes inteligentes. Não tem segredo, só diversão!
+-Installation-
+Installing the project is as simple as following the steps on GitHub, and voilà, you're ready to dive into the world of intelligent agents. No secrets, just fun!
 
-Uso
-O uso deste projeto é perfeito para quem quer enriquecer seu conhecimento sobre IA e Agents. É tipo um treinamento para virar um mestre Jedi da programação. Brincadeiras à parte, é uma ótima maneira de ver a inteligência artificial em ação e aprender algo novo.
+  Usage
+The usage of this project is perfect for those who want to enrich their knowledge about AI and Agents. It's like training to become a Jedi master of programming. Jokes aside, it's a great way to see artificial intelligence in action and learn something new.
 
-Tecnologias Utilizadas
-LANGCHAIN: Porque só os fortes entendem a importância de boas correntes!
-PYTHON: A língua franca dos programadores (e das cobras)!
-SQLite: O lugar onde nossos dados moram.
-OPENAI: O cérebro por trás dos nossos agentes espertos.
-CHATGPT: Porque conversar com máquinas nunca foi tão divertido.
-Contribuição
-Quer ajudar esse adolescente de 14 anos que está estudando feito louco? Compartilhe este projeto com seus amigos, colegas e até com aquele seu primo nerd que adora tecnologia. Quanto mais, melhor! Cada compartilhamento ajuda a espalhar conhecimento e a motivar o jovem criador a continuar explorando o mundo da IA.
+  Technologies Used:
+-LANGCHAIN: Because only the strong understand the importance of good chains!
+-PYTHON: The lingua franca of programmers (and snakes)!
+-SQLite: The place where our data resides.
+-OPENAI: The brain behind our smart agents.
+-CHATGPT: Because talking to machines has never been so fun.
 
-Licença
-Este projeto não tem licença. Use, abuse e compartilhe o conhecimento!
+  -Contribution-
+Want to help this 14-year-old who's been studying like crazy? Share this project with your friends, colleagues, and even that nerdy cousin who loves technology. The more, the merrier! Every share helps spread knowledge and motivates the young creator to keep exploring the world of AI.
+
+  -License-
+This project has no license. Use it, abuse it, and share the knowledge!
